@@ -9,7 +9,7 @@
 ### Блок 1 - Регрессия и деревья решений
 | Тема | Датасет | Материалы |
 |------|---------|-----------|
-| [Построение линии регрессии](regression/) | - | [notebook](regression/dataset_regression.ipynb) |
+| [Построение линии регрессии](regression/) | [Auto MPG](https://www.kaggle.com/datasets/uciml/autompg-dataset) - характеристики автомобилей, предсказание расхода топлива | [notebook](regression/auto_mpg_regression.ipynb) |
 | [Классификационное дерево и Random Forest](classification_tree_rf/) | - | [notebook](classification_tree_rf/dataset_classification_tree_rf.ipynb) |
 | [Дерево решений - регрессор](decision_tree_regressor/) | California Housing, Diabetes, sin(x) - 3 датасета для сравнения поведения дерева | [notebook](decision_tree_regressor/dataset_decision_tree_regressor.ipynb) |
 
