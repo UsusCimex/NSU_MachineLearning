@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+kagglehub
+pymorphy3
+torch
+jupyter
+nbconvert

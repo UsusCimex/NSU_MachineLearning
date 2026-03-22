@@ -1,0 +1,32 @@
+# Data
+*.csv
+*.xlsx
+*.json
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Claude
+.claude/
+CLAUDE.md
+
+# Kaggle API
+kaggle.json
+.kaggle/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
