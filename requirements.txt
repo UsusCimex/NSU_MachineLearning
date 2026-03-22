@@ -7,5 +7,6 @@ scipy
 kagglehub
 pymorphy3
 torch
+torchvision
 jupyter
 nbconvert
