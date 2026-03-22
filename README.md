@@ -24,7 +24,7 @@
 | Тема | Датасет | Материалы |
 |------|---------|-----------|
 | [Mean Shift](mean_shift/) | — | [notebook](mean_shift/dataset_mean_shift.ipynb) |
-| [K-Means, K-Means++](kmeans/) | — | [notebook](kmeans/dataset_kmeans.ipynb) · [презентация](kmeans/kmeans_presentation.pptx) |
+| [K-Means, K-Means++](kmeans/) | sklearn.datasets.load_digits — рукописные цифры 8x8, кластеризация | [notebook](kmeans/dataset_kmeans.ipynb) · [презентация](kmeans/kmeans_presentation.pptx) |
 | [DBSCAN](dbscan/) | — | [notebook](dbscan/dataset_dbscan.ipynb) |
 
 ### Блок 4 — Снижение размерности и нейросети
