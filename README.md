@@ -10,7 +10,7 @@
 | Тема | Датасет | Материалы |
 |------|---------|-----------|
 | [Построение линии регрессии](regression/) | [Auto MPG](https://www.kaggle.com/datasets/uciml/autompg-dataset) - характеристики автомобилей, предсказание расхода топлива | [notebook](regression/auto_mpg_regression.ipynb) |
-| [Классификационное дерево и Random Forest](classification_tree_rf/) | - | [notebook](classification_tree_rf/dataset_classification_tree_rf.ipynb) |
+| [Классификационное дерево и Random Forest](classification_tree_rf/) | [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) - 2000 смартфонов, классификация по 4 ценовым категориям (RF accuracy=0.88) | [notebook](classification_tree_rf/mobile_price_classification_tree_rf.ipynb) |
 | [Дерево решений - регрессор](decision_tree_regressor/) | California Housing, Diabetes, sin(x) - 3 датасета для сравнения поведения дерева | [notebook](decision_tree_regressor/dataset_decision_tree_regressor.ipynb) |
 
 ### Блок 2 - Классические методы классификации
