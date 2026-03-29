@@ -18,7 +18,7 @@
 |------|---------|-----------|
 | [Наивный Байес](naive_bayes/) | [Russian Sentiment Dataset](https://www.kaggle.com/datasets/mar1mba/russian-sentiment-dataset) - классификация тональности русскоязычных текстов | [notebook](naive_bayes/sentiment_nb.ipynb) |
 | [K ближайших соседей (KNN)](knn/) | [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) - 114k треков, классификация жанров по аудио-признакам | [notebook](knn/spotify_knn.ipynb) |
-| [Машины опорных векторов (SVM)](svm/) | - | [notebook](svm/dataset_svm.ipynb) |
+| [Машины опорных векторов (SVM)](svm/) | [Bank Note Authentication](https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data) - 1372 банкноты, аутентификация по вейвлет-признакам (RBF accuracy=1.00) | [notebook](svm/banknote_svm.ipynb) |
 
 ### Блок 3 - Кластеризация
 | Тема | Датасет | Материалы |
