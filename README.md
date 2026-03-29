@@ -32,4 +32,4 @@
 |------|---------|-----------|
 | [Метод главных компонент (PCA)](pca/) | [Human Activity Recognition](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones) - 10299 записей с акселерометра/гироскопа, 561 признак, 6 видов активности | [notebook](pca/har_pca.ipynb) |
 | [Нейронная сеть - классификация](nn_classification/) | Fashion MNIST - 70k изображений одежды 28x28, 10 классов | [notebook](nn_classification/fashion_mnist_nn_classification.ipynb) |
-| [Нейронная сеть - регрессия](nn_regression/) | - | [notebook](nn_regression/dataset_nn_regression.ipynb) |
+| [Нейронная сеть - регрессия](nn_regression/) | [Used Cars Price Prediction](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction) - 6019 автомобилей, предсказание цены по характеристикам (R2=0.90) | [notebook](nn_regression/used_cars_nn_regression.ipynb) |
