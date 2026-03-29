@@ -25,7 +25,7 @@
 |------|---------|-----------|
 | [Mean Shift](mean_shift/) | - | [notebook](mean_shift/dataset_mean_shift.ipynb) |
 | [K-Means, K-Means++](kmeans/) | sklearn.datasets.load_digits - рукописные цифры 8x8, кластеризация | [notebook](kmeans/dataset_kmeans.ipynb) · [презентация](kmeans/kmeans_presentation.pptx) |
-| [DBSCAN](dbscan/) | - | [notebook](dbscan/dataset_dbscan.ipynb) |
+| [DBSCAN](dbscan/) | [Significant Earthquakes, 1965-2016](https://www.kaggle.com/datasets/usgs/earthquake-database) - 23k землетрясений, кластеризация сейсмических зон по координатам (3 кластера, Silhouette=0.21) | [notebook](dbscan/earthquake_dbscan.ipynb) |
 
 ### Блок 4 - Снижение размерности и нейросети
 | Тема | Датасет | Материалы |
