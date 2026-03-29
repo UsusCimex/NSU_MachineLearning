@@ -23,7 +23,7 @@
 ### Блок 3 - Кластеризация
 | Тема | Датасет | Материалы |
 |------|---------|-----------|
-| [Mean Shift](mean_shift/) | - | [notebook](mean_shift/dataset_mean_shift.ipynb) |
+| [Mean Shift](mean_shift/) | [Country Socioeconomic Data](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data) - 167 стран, сегментация по 9 социально-экономическим показателям (Silhouette=0.57) | [notebook](mean_shift/country_mean_shift.ipynb) |
 | [K-Means, K-Means++](kmeans/) | sklearn.datasets.load_digits - рукописные цифры 8x8, кластеризация | [notebook](kmeans/dataset_kmeans.ipynb) · [презентация](kmeans/kmeans_presentation.pptx) |
 | [DBSCAN](dbscan/) | [Significant Earthquakes, 1965-2016](https://www.kaggle.com/datasets/usgs/earthquake-database) - 23k землетрясений, кластеризация сейсмических зон по координатам (3 кластера, Silhouette=0.21) | [notebook](dbscan/earthquake_dbscan.ipynb) |
 
